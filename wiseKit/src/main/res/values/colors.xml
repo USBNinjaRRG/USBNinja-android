@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    #导航栏背景颜色
+    <color name="colorNavBackground">#0d61e0</color>
+
+    #导航栏颜色
+    <color name="colorNavText">#FFFFFF</color>
+
+    #背景颜色
+    <color name="colorBackground">#e6e6e6</color>
+
+    #分割线颜色
+    <color name="colorSeparate">#bfbfbf</color>
+
+    #tab bar 选中字体颜色
+    <color name="colorTabBarSelectedText">#ea9518</color>
+
+    #tab bar 未选中字体颜色
+    <color name="colorTabBarNormalText">#515151</color>
+
+
+</resources>
